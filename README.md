@@ -5,8 +5,8 @@ MailChimp API.
 
 ## Technologies used :-
 
--NodeJS
--Express
--MailChimp
+- NodeJS
+- Express
+- MailChimp
 
 
